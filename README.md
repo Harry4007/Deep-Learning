@@ -1,4 +1,4 @@
-# Deep-Learning
+# Covid-19 Detection Using Chest X-Ray Images
 
 Building a deep learning model to predict COVID-19 positive or negative cases using ResNet-50 involves several steps, including data preprocessing, model architecture, training, and evaluation. Here's an overview of the steps involved:
 
